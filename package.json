@@ -1,0 +1,29 @@
+{
+  "name": "vue-shop-firebase",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "core-js": "^3.8.3",
+    "nouislider": "^15.8.1",
+    "pinia": "^2.1.7",
+    "vue": "^3.4.15",
+    "vue-nouislider": "^1.0.1",
+    "vue-router": "^4.3.0",
+    "vue-slider-component": "^3.2.24"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-eslint": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.32.0",
+    "eslint-plugin-vue": "^7.0.0",
+    "sass": "^1.32.7",
+    "sass-loader": "^10.1.1"
+  }
+}
